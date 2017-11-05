@@ -1,9 +1,9 @@
 #Dev by Ender Loc Phan
-<#Requirements:
+<#
+.Requirements:
 
 Import-Module ActiveDirectory
-#>
-<#
+
 .Synopsis
     
 .DESCRIPTION
