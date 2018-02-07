@@ -10,8 +10,7 @@ Import-Module ActiveDirectory
     Ideas:
     It goes to each DCS and checks the amount of GPOS, if the amount isn't similar then FALSE
     It goes to each SYSVOL and gets latest modification date, if the time interval is longer than 15 minites then FALSE
-
-    Better ideas is to use: Get-ADReplicationPartnerMetadata
+    Better idea is to use: Get-ADReplicationPartnerMetadata
 .NOTES
     Dev by Ender Phan
 .LINK
